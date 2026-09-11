@@ -1,0 +1,223 @@
+{
+ 
+  "civilLaptops": [
+  {
+    "name": "HP Victus 15",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 3050",
+    "category": "Budget",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "ASUS TUF Gaming",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "category": "Best Value",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Acer Nitro V",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "category": "Best Value",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Lenovo LOQ",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "category": "Best Value",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "HP Omen",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Dell G15",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  }
+],
+
+"mechanicalLaptops": [
+  {
+    "name": "Lenovo LOQ",
+    "specs": "Ryzen 5 • 16GB RAM • 512GB SSD • RTX 3050",
+    "category": "Budget",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Acer ALG",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 3050",
+    "category": "Budget",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "ASUS TUF Gaming A15",
+    "specs": "Ryzen 7 • 16GB RAM • 512GB SSD • RTX 2050",
+    "category": "Budget",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "HP Victus 15",
+    "specs": "Ryzen 7 • 16GB RAM • 512GB SSD • RTX 3050",
+    "category": "Budget",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Lenovo LOQ RTX 4050",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "category": "Best Value",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Acer Nitro V",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "category": "Best Value",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "ASUS TUF Gaming",
+    "specs": "Core i7 • 16GB RAM • 512GB SSD • RTX 4050",
+    "category": "Best Value",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Lenovo Legion",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4050",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "ASUS ROG",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "HP Omen",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Dell G Series",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  }
+],
+
+
+
+
+  "cellphones": [
+    {
+      "name": "Redmi Note 13",
+      "note": "Reliable camera and battery for everyday use.",
+      "price": "₹14,999",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "affiliateLink": "https://www.amazon.in/dp/B0CPHONE1?tag=YOUR-AFFILIATE-TAG"
+    },
+    {
+      "name": "Samsung Galaxy M14",
+      "note": "Big battery, smooth for calls, maps, and apps.",
+      "price": "₹12,999",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "affiliateLink": "https://www.amazon.in/dp/B0CPHONE2?tag=YOUR-AFFILIATE-TAG"
+    },
+    {
+      "name": "Realme Narzo 60",
+      "note": "Fast enough for gaming between lectures.",
+      "price": "₹15,999",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "affiliateLink": "https://www.amazon.in/dp/B0CPHONE3?tag=YOUR-AFFILIATE-TAG"
+    }
+  ],
+  "boots": [
+    {
+      "name": "Woodland Leather Boots",
+      "note": "Durable for outdoor walking and rough weather.",
+      "price": "₹2,999",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "affiliateLink": "https://www.amazon.in/dp/B0BBOOT1?tag=YOUR-AFFILIATE-TAG"
+    },
+    {
+      "name": "Red Chief Formal Boots",
+      "note": "Sturdy pair that works for interviews too.",
+      "price": "₹3,499",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "affiliateLink": "https://www.amazon.in/dp/B0BBOOT2?tag=YOUR-AFFILIATE-TAG"
+    },
+    {
+      "name": "Bacca Bucci Chukka Boots",
+      "note": "Comfortable for long days on your feet.",
+      "price": "₹2,199",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "affiliateLink": "https://www.amazon.in/dp/B0BBOOT3?tag=YOUR-AFFILIATE-TAG"
+    }
+  ],
+  "accessories": [
+  {
+    "name": "Fast Charger ",
+    "price": "₹899",
+    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.in/dp/B0CACC1?tag=YOUR-AFFILIATE-TAG"
+  },
+  {
+    "name": "Phone Case",
+    "price": "₹399",
+    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.in/dp/B0CACC2?tag=YOUR-AFFILIATE-TAG"
+  },
+  {
+    "name": " Power Bank",
+    "price": "₹1,299",
+    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.in/dp/B0CACC3?tag=YOUR-AFFILIATE-TAG"
+  },
+  {
+    "name": "Pods",
+    "price": "₹349",
+    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.in/dp/B0CACC4?tag=YOUR-AFFILIATE-TAG"
+  },
+  {
+    "name": "Tempered Glass(2-pack)",
+   "price": "₹199",
+    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.in/dp/B0CACC5?tag=YOUR-AFFILIATE-TAG"
+  },
+  {
+    "name": "HeadPhones",
+    "price": "₹899",
+    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.in/dp/B0CACC6?tag=YOUR-AFFILIATE-TAG"
+  },
+  {
+    "name": "MOuse",
+    "price": "₹249",
+    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.in/dp/B0CACC7?tag=YOUR-AFFILIATE-TAG"
+  }
+]
+
+
+}
