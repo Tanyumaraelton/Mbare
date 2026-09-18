@@ -42,6 +42,23 @@ a { color: inherit; }
   justify-content: space-between;
   height: 64px;
 }
+
+@media (max-width: 560px) {
+  .header-row {
+    flex-direction: column;
+    align-items: flex-start;
+    height: auto;
+    padding: 16px 0;
+    gap: 12px;
+  }
+
+  .header-row .quick-nav {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+}
+
+
 .mark {
   font-family: var(--serif);
   font-weight: 600;
