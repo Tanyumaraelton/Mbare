@@ -1,39 +1,59 @@
 {
  
-  "civilLaptops": [
+"civilLaptops": [
   {
     "name": "HP Victus 15",
     "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 3050",
     "category": "Budget",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
+    "image": "https://cdn1.smartprix.com/rx-iHH5oyvE4-w280-h280/hp-victus-15-fb3123a.webp",
+    "affiliateLink": "https://dl.flipkart.com/dl/hp-victus-15-intel-core-i5-13th-gen-13420h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-144-hz-75-w-15-fa1327tx-gaming-laptop/p/itmb08f154f265d7?pid=COMHY8KVZ73Y9PPY&lid=LSTCOMHY8KVZ73Y9PPYGBSHGI&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc&_refId=&_appId=CL"
   },
   {
-    "name": "ASUS TUF Gaming",
-    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "name": "HP 15 (2026), AMD Ryzen 5 Hexa Core",
+    "specs": "AMD Ryzen 5 Hexa Core- 8 GB DDR5/512 GB SSD/AMD Radeon 15.6",
     "category": "Best Value",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
+    "image": "HP-15-(2026),-AMD-Ryzen-5-Hexa-Core.png",
+    "affiliateLink": "https://link.amazon/B0bwJ0bW0"
   },
   {
-    "name": "Acer Nitro V",
-    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "name": "Lenovo V15 G4 ",
+    "specs": "Ryzen 5 - 15.6 inch FHD, 16GB DDR5 5500Mhz Ram, 512GB SSD,",
     "category": "Best Value",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
+    "image": "Lenovo-V15-G4-AMD-Ryzen-5.png",
+    "affiliateLink": "https://link.amazon/B0bfx7xz4"
   },
   {
-    "name": "Lenovo LOQ",
-    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "name": "Dell Vostro 3530",
+    "specs": "15.6 inches, 13th Gen, Intel Core i5-1334U Processor, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics",
     "category": "Best Value",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
+    "image": "Dell-Vostro-3530-Laptop-15.6.png",
+    "affiliateLink": "https://link.amazon/B06wfFQ5N"
   },
   {
-    "name": "HP Omen",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "name": "HP 250 G10 Intel® i5",
+    "specs": "Core i5 • 13th Gen 1334U - 16 GB/512 GB SSD, 15.6 inch",
+    "category": "Higher End",
+    "image": "HP-250-G10-Intel-i5.png",
+    "affiliateLink": "https://link.amazon/B075N6oxY"
+  },
+  {
+    "name": "HP Intel Core i5 ",
+    "specs": "Core i7 • 12th Gen - (16 GB/512 GB SSD, 15.6 Inch)",
     "category": "Higher End",
     "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "https://dl.flipkart.com/s/ZS3DPJuuuN"
+  },
+  {
+    "name": "ASUS Vivobook 15 (2025) ",
+    "specs": "Intel Core i3 13th Gen 1315U - 8 GB/512 GB SSD, 15.6 Inch",
+    "category": "Higher End",
+    "image": "ASUS-Vivobook-15.png",
+    "affiliateLink": "https://dl.flipkart.com/s/ZU8HUVuuuN"
+  },{
+    "name": "Dell G15",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK.png",
     "affiliateLink": "YOUR-AMAZON-LINK"
   },
   {
@@ -43,86 +63,7 @@
     "image": "YOUR-IMAGE-LINK",
     "affiliateLink": "YOUR-AMAZON-LINK"
   }
-],
 
-"mechanicalLaptops": [
-  {
-    "name": "Lenovo LOQ",
-    "specs": "Ryzen 5 • 16GB RAM • 512GB SSD • RTX 3050",
-    "category": "Budget",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "Acer ALG",
-    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 3050",
-    "category": "Budget",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "ASUS TUF Gaming A15",
-    "specs": "Ryzen 7 • 16GB RAM • 512GB SSD • RTX 2050",
-    "category": "Budget",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "HP Victus 15",
-    "specs": "Ryzen 7 • 16GB RAM • 512GB SSD • RTX 3050",
-    "category": "Budget",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "Lenovo LOQ RTX 4050",
-    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
-    "category": "Best Value",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "Acer Nitro V",
-    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
-    "category": "Best Value",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "ASUS TUF Gaming",
-    "specs": "Core i7 • 16GB RAM • 512GB SSD • RTX 4050",
-    "category": "Best Value",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "Lenovo Legion",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4050",
-    "category": "Higher End",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "ASUS ROG",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
-    "category": "Higher End",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "HP Omen",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
-    "category": "Higher End",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "Dell G Series",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
-    "category": "Higher End",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  }
 ],
 
 
