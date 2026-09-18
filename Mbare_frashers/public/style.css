@@ -164,15 +164,21 @@ a { color: inherit; }
   grid-template-columns: repeat(3, 1fr);
   gap: 22px;
 }
+..........................
 
-.card {
-  background: var(--paper);
-  color: var(--ink);
-  border: 1px solid var(--line);
+.engineering-laptop-grid,
+.card-grid {
   display: flex;
-  flex-direction: column;
-  overflow: hidden;
+  flex-wrap: wrap;
+  gap: 20px;
 }
+
+.engineering-laptop-grid > *,
+.card-grid > * {
+  flex: 1 1 220px;
+  max-width: 300px;
+}
+...........................
 .band-green .card { border-color: rgba(247, 243, 234, 0.18); }
 
 .card-image-link {
