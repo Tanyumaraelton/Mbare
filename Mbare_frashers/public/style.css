@@ -354,39 +354,7 @@ a { color: inherit; }
 .disclosure { opacity: 0.85; }
 
 /* Responsiv------------------------------------------------------------- */
-@media (max-width: 860px) {
-  .hero-grid { grid-template-columns: 1fr; gap: 28px; }
-  .hero-text h1 { font-size: 34px; }
-  .card-grid,
-  .engineering-laptop-grid { grid-template-columns: repeat(2, 1fr); }
-  #accessories-grid.card-grid { grid-template-columns: repeat(4, 1fr); }
-}
 
-@media (max-width: 560px) {
-  .card-grid,
-  .engineering-laptop-grid,
-  #accessories-grid.card-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  #accessories-grid .card { height: auto; }
-  .quick-nav a { margin-left: 16px; }
-  .hero { padding: 52px 0 40px; }
-}
-
-@media (max-width: 560px) {
-  .header-row {
-    flex-direction: column;
-    align-items: flex-start;
-    height: auto;
-    padding: 16px 0;
-    gap: 12px;
-  }
-
-  .header-row .quick-nav {
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-}
 
 /* Engineering picks =============-------------------------------------------- */
 .engineering-picks {
