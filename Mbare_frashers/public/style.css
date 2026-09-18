@@ -169,7 +169,7 @@ a { color: inherit; }
 
 .card-image-link {
   display: block;
-  aspect-ratio: 4 / 3;
+  flex: 5 1 0;
   background: #ece7da;
   position: relative;
   overflow: hidden;
