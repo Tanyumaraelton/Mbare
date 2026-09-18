@@ -100,9 +100,12 @@ a { color: inherit; }
 
 /* Hero */
 .hero {
-  padding: 76px 0 64px;
-  border-bottom: 1px solid var(--line);
+    min-height: 0;
+    height: auto;
+    padding: 0;
+    margin: 0;
 }
+
 .hero-grid {
   display: grid;
   grid-template-columns: 1.5fr 1fr;
