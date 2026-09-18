@@ -183,7 +183,7 @@ a { color: inherit; }
 
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 22px;
 }
 
@@ -488,7 +488,7 @@ a { color: inherit; }
 
 .engineering-laptop-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 20px;
 }
 
@@ -508,7 +508,7 @@ a { color: inherit; }
 /* gxfcghbjnkmcjhggfghjknjbj */
 
 #accessories-grid.card-grid {
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
   gap: 10px;
 }
 
