@@ -265,7 +265,28 @@ a { color: inherit; }
 .band-green .card {
   border-color: rgba(255, 255, 255, 0.35);
 }
-// ................................
+/* Default (laptop and larger): 4 per row */
+.band-green .card-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 22px;
+}
+
+/* Tablet and smaller: 3 per row */
+@media (max-width: 1023px) {
+  .band-green .card-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* Phone: 2 per row */
+@media (max-width: 699px) {
+  .band-green .card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+}
+/*---------------------------------*/
+
 .card-image-link {
   display: block;
   flex: 5;
@@ -275,7 +296,7 @@ a { color: inherit; }
   overflow: hidden;
   border-radius: 20px 20px 0 0;
 }
-//..................................
+/*---------------------------------*/
 
 .card-image-link img {
   width: 100%;
@@ -304,7 +325,7 @@ a { color: inherit; }
 }
 .card-image-link:hover img { transform: scale(1.04); }
 .card-image-link::after {
-  content: "View on Amazon";
+  content: "View Product";
   position: absolute;
   left: 0; right: 0; bottom: 0;
   background: var(--ink);
@@ -371,31 +392,7 @@ a { color: inherit; }
 
 
 /* Engineering picks =============-------------------------------------------- */
-.engineering-picks {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 22px;
-  margin-bottom: 40px;
-}
 
-.engineering-card {
-  padding: 28px;
-
-  background: rgba(255, 255, 255, 0.10);
-  backdrop-filter: blur(12px) saturate(150%);
-  -webkit-backdrop-filter: blur(12px) saturate(150%);
-
-  border: 1px solid rgba(255, 255, 255, 0.30);
-  border-radius: 20px;
-
-  color: var(--paper);
-
-  box-shadow:
-    0 10px 30px rgba(0, 0, 0, 0.12),
-    inset 0 1px 1px rgba(255, 255, 255, 0.25);
-
-  transition: 0.25s ease;
-}
 
 .engineering-card:hover {
   background: rgba(255, 255, 255, 0.15);
@@ -420,16 +417,8 @@ a { color: inherit; }
   margin: 0 0 15px;
 }
 
-.engineering-laptop-image {
-  width: 100%;
-  height: 190px;
-  object-fit: contain;
-  display: block;
-  margin: 10px 0 15px;
-}
-.engineering-image-link {
-  display: block;
-}
+
+
 
 .engineering-card h4 {
   font-family: var(--serif);
@@ -444,11 +433,6 @@ a { color: inherit; }
   margin: 0 0 15px;
 }
 
-.engineering-price {
-  font-size: 16px;
-  font-weight: 600;
-  margin-bottom: 18px;
-}
 
 .pick-button {
   display: inline-block;
@@ -500,11 +484,7 @@ a { color: inherit; }
   margin: 65px 0;
 }
 
-.engineering-laptop-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 20px;
-}
+
 
 /* Phones and accessories */
 .kit-subheading {
@@ -555,5 +535,32 @@ a { color: inherit; }
   font-size: 5px;
 }
 
+/*........Dont Buy.......*/
 
+#dont-buy-grid .card { position: relative; }
 
+#dont-buy-grid .card-image-link {
+  display: block;
+  cursor: zoom-in;
+}
+
+#dont-buy-grid .card img {
+  transition: transform 0.3s ease;
+  position: relative;
+}
+
+#dont-buy-grid .card.zoomed {
+  z-index: 20;
+  overflow: visible;
+}
+
+#dont-buy-grid .card.zoomed .card-image-link {
+  overflow: visible;
+  cursor: zoom-out;
+}
+
+#dont-buy-grid .card.zoomed img {
+  transform: scale(6);
+  z-index: 21;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+}
