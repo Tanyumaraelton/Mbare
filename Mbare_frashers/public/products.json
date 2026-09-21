@@ -1,7 +1,7 @@
 {
  
-"civilLaptops": [
-  {
+  "civilLaptops": [
+     {
     "name": "HP Victus 15",
     "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 3050",
     "category": "Budget",
@@ -49,11 +49,60 @@
     "category": "Higher End",
     "image": "ASUS-Vivobook-15.png",
     "affiliateLink": "https://dl.flipkart.com/s/ZU8HUVuuuN"
+  },
+  {
+    "name": "HP Victus 15",
+    "note": "Reliable camera and battery for everyday use.",
+    "price": "₹14,999",
+    "image": "https://cdn1.smartprix.com/rx-iHH5oyvE4-w280-h280/hp-victus-15-fb3123a.webp",
+    "affiliateLink": "https://dl.flipkart.com/dl/hp-victus-15-intel-core-i5-13th-gen-13420h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-144-hz-75-w-15-fa1327tx-gaming-laptop/p/itmb08f154f265d7?pid=COMHY8KVZ73Y9PPY&lid=LSTCOMHY8KVZ73Y9PPYGBSHGI&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc&_refId=&_appId=CL"
+  },
+  {
+    "name": "HP 15 (2026), AMD Ryzen 5 Hexa Core",
+    "specs": "AMD Ryzen 5 Hexa Core- 8 GB DDR5/512 GB SSD/AMD Radeon 15.6",
+    "category": "Best Value",
+    "image": "HP 15 (2026), AMD Ryzen 5 Hexa Core",
+    "affiliateLink": "https://link.amazon/B0bwJ0bW0"
+  },
+  {
+    "name": "Lenovo V15 G4 ",
+    "specs": "Ryzen 5 - 15.6 inch FHD, 16GB DDR5 5500Mhz Ram, 512GB SSD,",
+    "category": "Best Value",
+    "image": "Lenovo V15 G4 AMD Ryzen 5",
+    "affiliateLink": "https://link.amazon/B0bfx7xz4"
+  },
+  {
+    "name": "Dell Vostro 3530",
+    "specs": "15.6 inches, 13th Gen, Intel Core i5-1334U Processor, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics",
+    "category": "Best Value",
+    "image": "Dell Vostro 3530 Laptop 15.6",
+    "affiliateLink": "https://link.amazon/B06wfFQ5N"
+  },
+  {
+    "name": "HP 250 G10 Intel® i5",
+    "specs": "Core i5 • 13th Gen 1334U - 16 GB/512 GB SSD, 15.6 inch",
+    "category": "Higher End",
+    "image": "HP-250-G10-Intel-i5",
+    "affiliateLink": "https://link.amazon/B075N6oxY"
+  },
+  {
+    "name": "HP Intel Core i5 ",
+    "specs": "Core i7 • 12th Gen - (16 GB/512 GB SSD, 15.6 Inch)",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "https://dl.flipkart.com/s/ZS3DPJuuuN"
+  },
+  {
+    "name": "ASUS Vivobook 15 (2025) ",
+    "specs": "Intel Core i3 13th Gen 1315U - 8 GB/512 GB SSD, 15.6 Inch",
+    "category": "Higher End",
+    "image": "ASUS-Vivobook-15",
+    "affiliateLink": "https://dl.flipkart.com/s/ZU8HUVuuuN"
   },{
     "name": "Dell G15",
     "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
     "category": "Higher End",
-    "image": "YOUR-IMAGE-LINK.png",
+    "image": "YOUR-IMAGE-LINK",
     "affiliateLink": "YOUR-AMAZON-LINK"
   },
   {
@@ -63,7 +112,109 @@
     "image": "YOUR-IMAGE-LINK",
     "affiliateLink": "YOUR-AMAZON-LINK"
   }
+  ,
+    {
+      "name": "Red Chief Formal Boots",
+      "note": "Sturdy pair that works for interviews too.",
+      "price": "₹3,499",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "affiliateLink": "https://www.amazon.in/dp/B0BBOOT2?tag=YOUR-AFFILIATE-TAG"
+    },
+    {
+      "name": "Bacca Bucci Chukka Boots",
+      "note": "Comfortable for long days on your feet.",
+      "price": "₹2,199",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "affiliateLink": "https://www.amazon.in/dp/B0BBOOT3?tag=YOUR-AFFILIATE-TAG"
+    },
+     {
+      "name": "Woodland Leather Boots",
+      "note": "Durable for outdoor walking and rough weather.",
+      "price": "₹2,999",
+      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "affiliateLink": "https://www.amazon.in/Nivia-Carbonite-Football-studs-Black/dp/B0CX4PKVVL/ref=sxin_13_pa_sp_search_thematic_sspa?content-id=amzn1.sym.e56084ea-0096-4303-b5e6-9e157bd6cb3b%3Aamzn1.sym.e56084ea-0096-4303-b5e6-9e157bd6cb3b&crid=2J76NV90HW1IR&cv_ct_cx=boots%2Bfootball&keywords=boots%2Bfootball&pd_rd_i=B0CX4PKVVL&pd_rd_r=f2a01868-2f26-49c9-8e2f-8a4d6b553075&pd_rd_w=CTdtH&pd_rd_wg=3Dept&pf_rd_p=e56084ea-0096-4303-b5e6-9e157bd6cb3b&pf_rd_r=48K5TBF5F0Q65ASF47N2&qid=1789153343&s=apparel&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=boots%2Bfootbal%2Capparel%2C363&sr=1-3-883a54c7-f466-4d42-997c-6d482a360a1a-spons&aref=cP6dIeVVRV&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&psc=1"
+    }
 
+],
+
+"mechanicalLaptops": [
+  {
+    "name": "Lenovo LOQ",
+    "specs": "Ryzen 5 • 16GB RAM • 512GB SSD • RTX 3050",
+    "category": "Budget",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Acer ALG",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 3050",
+    "category": "Budget",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "ASUS TUF Gaming A15",
+    "specs": "Ryzen 7 • 16GB RAM • 512GB SSD • RTX 2050",
+    "category": "Budget",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "HP Victus 15",
+    "specs": "Ryzen 7 • 16GB RAM • 512GB SSD • RTX 3050",
+    "category": "Budget",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Lenovo LOQ RTX 4050",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "category": "Best Value",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Acer Nitro V",
+    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
+    "category": "Best Value",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "ASUS TUF Gaming",
+    "specs": "Core i7 • 16GB RAM • 512GB SSD • RTX 4050",
+    "category": "Best Value",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Lenovo Legion",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4050",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "ASUS ROG",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "HP Omen",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  },
+  {
+    "name": "Dell G Series",
+    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
+    "category": "Higher End",
+    "image": "YOUR-IMAGE-LINK",
+    "affiliateLink": "YOUR-AMAZON-LINK"
+  }
 ],
 
 
@@ -94,26 +245,77 @@
   ],
   "boots": [
     {
-      "name": "Woodland Leather Boots",
+      "name": "Nivia_Encounter_Grey",
       "note": "Durable for outdoor walking and rough weather.",
-      "price": "₹2,999",
-      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-      "affiliateLink": "https://www.amazon.in/dp/B0BBOOT1?tag=YOUR-AFFILIATE-TAG"
+      "price": "₹718",
+      "image": "Nivia_Encounter_Grey.png",
+      "affiliateLink": "https://link.amazon/B0d4Y6ODR"
+    },
+    {
+      "name": "VectorX-Red",
+      "note": "Sturdy pair that works for interviews too.",
+      "price": "₹787",
+      "image": "VectorX-Red.png",
+      "affiliateLink": "https://link.amazon/B0ghqJyX8"
+    },
+    {
+      "name": "Nivia_carbonate_green",
+      "note": "Comfortable for long days on your feet.",
+      "price": "₹629",
+      "image": "Nivia_carbonate_green.png",
+      "affiliateLink": "https://link.amazon/B05Vusg1V"
+    },
+     {
+      "name": "One Pair Poplin Football Socks + One Pair Football Shin Guard",
+      "price": "₹189",
+      "image": "One-Pair-Poplin-Football-Socks+One-Pair-Football-Shin-Guard.png",
+      "affiliateLink": "https://link.amazon/B083PYILC"
     },
     {
       "name": "Red Chief Formal Boots",
       "note": "Sturdy pair that works for interviews too.",
-      "price": "₹3,499",
-      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+      "price": "₹195",
+      "image": "One-Pair-Elite-Shin-Guard.png",
       "affiliateLink": "https://www.amazon.in/dp/B0BBOOT2?tag=YOUR-AFFILIATE-TAG"
     },
     {
-      "name": "Bacca Bucci Chukka Boots",
+      "name": "Football Shin Guard with Stocking Socks Combo",
       "note": "Comfortable for long days on your feet.",
-      "price": "₹2,199",
-      "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-      "affiliateLink": "https://www.amazon.in/dp/B0BBOOT3?tag=YOUR-AFFILIATE-TAG"
+      "price": "₹299",
+      "image": "Football-Shin-Guard-with-Stocking-Socks-Combo.png",
+      "affiliateLink": "https://link.amazon/B02QjMthk"
+    },
+     {
+      "name": "Indian Club Football Kit",
+      "note": "Comfortable for long days on your feet.",
+      "price": "₹195",
+      "image": "Indian-Club-Football-Kit.png",
+      "affiliateLink": "https://link.amazon/B0hS4GOSe"
+    },
+    {
+      "name": "Wavvy Football Shoes for Mens",
+      "note": "Comfortable for long days on your feet.",
+      "price": "₹649",
+      "image": "Wavvy-Football-Shoes-for-Mens.png",
+      "affiliateLink": "https://link.amazon/B0dtEuiSt"
+    },
+    {
+      "name": "FEROC TPU Football Shoe Goal ",
+      "price": "₹563",
+      "image": "FEROC-TPU-Football-Shoe-Goal.png",
+      "affiliateLink": "https://link.amazon/B00dsfiEs"
+    },
+
+     {
+      "name": "adidas Copa Pure Iv Club Fg/Mg Football Shoes White",
+      "note": "Comfortable Kkk",
+      "price": "₹4,999",
+      "image": "Football-adidas.png",
+      "affiliateLink": "https://link.amazon/B00fALKAu"
     }
+
+    
+
   ],
   "accessories": [
   {
@@ -132,7 +334,7 @@
     "name": " Power Bank",
     "price": "₹1,299",
     "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://www.amazon.in/dp/B0CACC3?tag=YOUR-AFFILIATE-TAG"
+    "affiliateLink": "https://www.amazon.in/dp/B0CACC3"
   },
   {
     "name": "Pods",
@@ -158,7 +360,53 @@
     "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
     "affiliateLink": "https://www.amazon.in/dp/B0CACC7?tag=YOUR-AFFILIATE-TAG"
   }
-]
+],
+
+
+"dontBuy": [
+    {
+      "name": "Product name",
+      "desc": "Short reason why it's not recommended.",
+      "price": "₹14,999",
+      "image": "https://cdn1.smartprix.com/rx-iHH5oyvE4-w280-h280/hp-victus-15-fb3123a.webp",
+      "link": "https://YOUR-AFFILIATE-LINK"
+    },
+    {
+      "name": "Second product",
+      "desc": "Another short reason.",
+      "price": "₹9,999",
+      "image": "images/phone.jpg",
+      "link": "https://YOUR-AFFILIATE-LINK-2"
+    },
+    {
+      "name": "Product name",
+      "desc": "Short reason why it's not recommended.",
+      "price": "₹14,999",
+      "image": "images/macbook.jpg",
+      "link": "https://YOUR-AFFILIATE-LINK"
+    },
+    {
+      "name": "Second product",
+      "desc": "Another short reason.",
+      "price": "₹9,999",
+      "image": "images/phone.jpg",
+      "link": "https://YOUR-AFFILIATE-LINK-2"
+    },
+    {
+      "name": "Product name",
+      "desc": "Short reason why it's not recommended.",
+      "price": "₹14,999",
+      "image": "images/macbook.jpg",
+      "link": "https://YOUR-AFFILIATE-LINK"
+    },
+    {
+      "name": "Second product",
+      "desc": "Another short reason.",
+      "price": "₹9,999",
+      "image": "images/phone.jpg",
+      "link": "https://YOUR-AFFILIATE-LINK-2"
+    }
+  ]
 
 
 }
