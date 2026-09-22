@@ -147,7 +147,7 @@
     "name": "HP Premium EP Series ",
     "specs": "Intel 13th Gen Core i7-1355U, 16GB RAM, 512GB SSD",
     "price": "₹79,990",
-    "image": "HP-Premium-EP-Series2.png",
+    "image": "images/HP-Premium-EP-Series2.png",
     "affiliateLink": "https://link.amazon/B0byK1YiI"
   }
 ],
@@ -259,43 +259,43 @@
     "name": "Fast Charger ",
     "price": "₹899",
     "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://www.amazon.in/dp/B0CACC1?tag=YOUR-AFFILIATE-TAG"
+    "affiliateLink": "https://link.amazon/B043Kx3i9"
   },
   {
     "name": "Phone Case",
     "price": "₹399",
     "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://www.amazon.in/dp/B0CACC2?tag=YOUR-AFFILIATE-TAG"
+    "affiliateLink": "https://link.amazon/B043Kx3i9"
   },
   {
     "name": " Power Bank",
     "price": "₹1,299",
     "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://www.amazon.in/dp/B0CACC3"
+    "affiliateLink": "https://link.amazon/B043Kx3i9"
   },
   {
     "name": "Pods",
     "price": "₹349",
     "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://www.amazon.in/dp/B0CACC4?tag=YOUR-AFFILIATE-TAG"
+    "affiliateLink": "https://link.amazon/B043Kx3i9"
   },
   {
     "name": "Tempered Glass(2-pack)",
    "price": "₹199",
     "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://www.amazon.in/dp/B0CACC5?tag=YOUR-AFFILIATE-TAG"
+    "affiliateLink": "https://link.amazon/B043Kx3i9"
   },
   {
     "name": "HeadPhones",
     "price": "₹899",
     "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://www.amazon.in/dp/B0CACC6?tag=YOUR-AFFILIATE-TAG"
+    "affiliateLink": "https://link.amazon/B043Kx3i9"
   },
   {
     "name": "MOuse",
     "price": "₹249",
     "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://www.amazon.in/dp/B0CACC7?tag=YOUR-AFFILIATE-TAG"
+    "affiliateLink": "https://link.amazon/B043Kx3i9"
   }
 ],
 
@@ -303,45 +303,10 @@
 "dontBuy": [
     {
       "name": "Product name",
-      "desc": "Short reason why it's not recommended.",
+      "desc": "Aspire, have Hinge problem",
       "price": "₹14,999",
-      "image": "https://cdn1.smartprix.com/rx-iHH5oyvE4-w280-h280/hp-victus-15-fb3123a.webp",
-      "link": "https://YOUR-AFFILIATE-LINK"
-    },
-    {
-      "name": "Second product",
-      "desc": "Another short reason.",
-      "price": "₹9,999",
-      "image": "images/phone.jpg",
-      "link": "https://YOUR-AFFILIATE-LINK-2"
-    },
-    {
-      "name": "Product name",
-      "desc": "Short reason why it's not recommended.",
-      "price": "₹14,999",
-      "image": "images/macbook.jpg",
-      "link": "https://YOUR-AFFILIATE-LINK"
-    },
-    {
-      "name": "Second product",
-      "desc": "Another short reason.",
-      "price": "₹9,999",
-      "image": "images/phone.jpg",
-      "link": "https://YOUR-AFFILIATE-LINK-2"
-    },
-    {
-      "name": "Product name",
-      "desc": "Short reason why it's not recommended.",
-      "price": "₹14,999",
-      "image": "images/macbook.jpg",
-      "link": "https://YOUR-AFFILIATE-LINK"
-    },
-    {
-      "name": "Second product",
-      "desc": "Another short reason.",
-      "price": "₹9,999",
-      "image": "images/phone.jpg",
-      "link": "https://YOUR-AFFILIATE-LINK-2"
+      "image": "Shonidada.png",
+      "link": "https://link.amazon/B043Kx3i9"
     }
   ]
 
