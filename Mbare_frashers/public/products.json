@@ -258,53 +258,17 @@
   {
     "name": "Fast Charger ",
     "price": "₹899",
-    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://link.amazon/B043Kx3i9"
-  },
-  {
-    "name": "Phone Case",
-    "price": "₹399",
-    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://link.amazon/B043Kx3i9"
-  },
-  {
-    "name": " Power Bank",
-    "price": "₹1,299",
-    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://link.amazon/B043Kx3i9"
-  },
-  {
-    "name": "Pods",
-    "price": "₹349",
-    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://link.amazon/B043Kx3i9"
-  },
-  {
-    "name": "Tempered Glass(2-pack)",
-   "price": "₹199",
-    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://link.amazon/B043Kx3i9"
-  },
-  {
-    "name": "HeadPhones",
-    "price": "₹899",
-    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://link.amazon/B043Kx3i9"
-  },
-  {
-    "name": "MOuse",
-    "price": "₹249",
-    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-    "affiliateLink": "https://link.amazon/B043Kx3i9"
+    "image": "charger.png",
+    "affiliateLink": "https://link.amazon/B0fEH3ZOo"
   }
+
 ],
 
 
 "dontBuy": [
     {
       "name": "Product name",
-      "desc": "Aspire, have Hinge problem",
-      "price": "₹14,999",
+      "note": "Aspire, have Hinge problem",
       "image": "Shonidada.png",
       "link": "https://link.amazon/B043Kx3i9"
     }
