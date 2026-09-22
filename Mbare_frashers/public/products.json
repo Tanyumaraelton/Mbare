@@ -48,14 +48,14 @@
     "name": "HP Professional 15 (2026) ",
     "note": "Intel i5 14th Gen (8 GB/512 GB SSD) 15.6 inch,",
     "price": "₹60,890",
-    "image": "HP_Professional_15_(2026).png",
+    "image": "images/HP_Professional_15_(2026).png",
     "affiliateLink": "https://link.amazon/B0frUqwK4"
   },
   {
     "name": "Dell Inspiron 3530 ",
     "note": "13th Gen Intel Core i5 ( 8GB RAM/512GB SSD) 15.6 inches",
     "price": "₹64,000",
-    "image": "Dell_Inspiron_3530.png",
+    "image": "images/Dell_Inspiron_3530.png",
     "affiliateLink": "https://link.amazon/B0a6ysuJk"
   },
   {
@@ -126,7 +126,7 @@
     "name": "ASUS Vivobook 15 (2025) ",
     "specs": "Intel Core i3 13th Gen 1315U • 8 GB/512 GB SSD • 15.6 Inch",
     "price": "₹2,999",
-    "image": "ASUS-Vivobook-15",
+    "image": "images/ASUS-Vivobook-15",
     "affiliateLink": "https://dl.flipkart.com/s/ZU8HUVuuuN"
   },{
     "name": "Dell G15",
