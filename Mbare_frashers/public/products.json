@@ -90,7 +90,7 @@
   {
     "name": "ASUS Vivobook 15 (2025) ",
     "note": "Intel Core i3 • 13th Gen 1315U • 8 GB/512 GB SSD • 15.6 Inch",
-    "price": "₹₹42,990",
+    "price": "₹42,990",
     "image": "images/ASUS-Vivobook-15.png",
     "affiliateLink": "https://dl.flipkart.com/s/ZU8HUVuuuN"
   },
@@ -98,59 +98,33 @@
   {
     "name": "HP 15 (2026), AMD Ryzen 5 Hexa Core",
     "specs": "AMD Ryzen 5 Hexa Core • 8 GB DDR5/512 GB • SSD/AMD Radeon 15.6",
-    "price": "₹2,999",
+    "price": "₹53,740",
     "image": "images/HP 15 (2026), AMD Ryzen 5 Hexa Core",
     "affiliateLink": "https://link.amazon/B0bwJ0bW0"
   },
-  {
-    "name": "Lenovo V15 G4 ",
-    "specs": "Ryzen 5 • 15.6 inch FHD • 16GB DDR5 5500Mhz Ram • 512GB SSD,",
-   "price": "₹2,999",
-    "image": "images/Lenovo V15 G4 AMD Ryzen 5",
-    "affiliateLink": "https://link.amazon/B0bfx7xz4"
-  },
+ 
   {
     "name": "Dell Vostro 3530",
     "specs": "15.6 inches • 13th Gen • Intel Core i5-1334U Processor • 16GB DDR4 RAM • 512GB SSD • Intel Iris Xe Graphics",
-   "price": "₹2,999",
+   "price": "₹70,800",
     "image": "images/Dell Vostro 3530 Laptop 15.6",
     "affiliateLink": "https://link.amazon/B06wfFQ5N"
   },
   {
     "name": "HP 250 G10 Intel® i5",
     "specs": "Core i5 • 13th Gen 1334U • 16 GB/512 GB SSD • 15.6 inch",
-    "price": "₹2,999",
+    "price": "₹69,990",
     "image": "images/HP-250-G10-Intel-i5",
     "affiliateLink": "https://link.amazon/B075N6oxY"
   },
-  {
-    "name": "HP Intel Core i5 ",
-    "specs": "Core i7 • 12th Gen • 16 GB/512 GB SSD • 15.6 Inch",
-    "price": "₹2,999",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "https://dl.flipkart.com/s/ZS3DPJuuuN"
-  },
+
   {
     "name": "ASUS Vivobook 15 (2025) ",
     "specs": "Intel Core i3 13th Gen 1315U • 8 GB/512 GB SSD • 15.6 Inch",
     "price": "₹2,999",
     "image": "images/ASUS-Vivobook-15",
     "affiliateLink": "https://dl.flipkart.com/s/ZU8HUVuuuN"
-  },{
-    "name": "Dell G15",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
-    "price": "₹2,999",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "Dell G15",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
-   "price": "₹2,999",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
   }
-
 ],
 
 "mechanicalLaptops": [
