@@ -1,39 +1,75 @@
 {
  
   "civilLaptops": [
+    {
+    "name": "HP Professional 15 (2026)",
+    "note": "Intel i3 14th Gen (8 GB/512 GB SSD/DOS)",
+    "price": "₹48,500",
+    "image": "images/HP_Professional_15_2026.png",
+    "affiliateLink": "https://link.amazon/B04VAo02p"
+  },
+    {
+    "name": "Dell 15 (Previously Inspiron) Laptop",
+    "note": "14th Gen Intel Core i3, 8GB DDR4, 512 SSD, 15.6 inch",
+    "price": "₹56,490",
+    "image": "images/Dell_15_(Previously_Inspiron)_Laptop.png",
+    "affiliateLink": "https://link.amazon/B0gUDidVa"
+  },
      {
-    "name": "HP Victus 15",
-    "note": "Core i5 • 16GB RAM • 512GB SSD • RTX 3050",
-    "price": "54 000",
-    "image": "https://cdn1.smartprix.com/rx-iHH5oyvE4-w280-h280/hp-victus-15-fb3123a.webp",
-    "affiliateLink": "https://dl.flipkart.com/dl/hp-victus-15-intel-core-i5-13th-gen-13420h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-144-hz-75-w-15-fa1327tx-gaming-laptop/p/itmb08f154f265d7?pid=COMHY8KVZ73Y9PPY&lid=LSTCOMHY8KVZ73Y9PPYGBSHGI&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc&_refId=&_appId=CL"
+    "name": "DELL Inspiron Intel Core i3",
+    "note": "i3 13th Gen 8 GB/512 GB SSD/Windows 11 15.6 Inch Platinum Silver",
+    "price": "₹52,900",
+    "image": "images/DELL_Inspiron_Intel_Core_i3.png",
+    "affiliateLink": "https://www.flipkart.com/dell-inspiron-intel-core-i3-13th-gen-1305u-8-gb-512-gb-ssd-windows-11-home-3530-thin-light-laptop/p/itm1e8ad2b18043a?pid=COMGRGYFCKYEDQEP&lid=LSTCOMGRGYFCKYEDQEPK4XKOY&marketplace=FLIPKART&q=+dell+i3+laptops&store=6bo%2Fb5g&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=618fbb63-e5b8-4def-a56c-ac842961e8b2.COMGRGYFCKYEDQEP.SEARCH&ppt=sp&ppn=sp&ssid=zo6bo6kpnk0000001790067068558&qH=ac159af02452a19e&ov_redirect=true"
   },
-  {
-    "name": "HP 15 (2026), AMD Ryzen 5 Hexa Core",
-    "note": "AMD Ryzen 5 Hexa Core • 8 GB DDR5/512 GB • SSD/AMD Radeon • 15.6",
-    "price": "₹2,999",
-    "image": "HP-15-(2026),-AMD-Ryzen-5-Hexa-Core.png",
-    "affiliateLink": "https://link.amazon/B0bwJ0bW0"
+     {
+    "name": "Lenovo V15",
+    "note": "Lenovo V15 Intel Core i5 13th Gen 15.6 inches 8GB RAM/512GB SSD)"
+    "price": "₹59,999",
+    "image": "images/Lenovo_V15.png",
+    "affiliateLink": "https://link.amazon/B08CZf4vN"
   },
+  
   {
+    "name": "HP 15s Core i5",
+    "note": "Core i5 12th Gen (16 GB/512 GB SSD)",
+    "price": "₹62,529",
+    "image": "images/HP_15s_Core_i5.png",
+    "affiliateLink": "https://www.flipkart.com/hp-15s-intel-core-i5-12th-gen-1235u-16-gb-512-gb-ssd-windows-11-home-15s-fq5330tu-15-fd0111tu-thin-light-laptop/p/itm5b5f94f7b044c?pid=COMGXNZGJV3MEMWM&lid=LSTCOMGXNZGJV3MEMWMMNYA0K&marketplace=FLIPKART&q=hp+core+i5s+laptop&store=6bo%2Fb5g&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=63c5acd7-b577-4e05-a0ea-79429f165aec.COMGXNZGJV3MEMWM.SEARCH&ppt=None&ppn=None&ssid=a4if1utb7k0000001790070137115&qH=7efcce73e237b6fa&ov_redirect=true"
+  },
+     {
     "name": "Lenovo V15 G4 ",
     "note": "Ryzen 5 • 15.6 inch FHD • 16GB DDR5 5500Mhz Ram • 512GB SSD,",
     "price": "₹2,999",
-    "image": "Lenovo-V15-G4-AMD-Ryzen-5.png",
+    "image": "images/Lenovo-V15-G4-AMD-Ryzen-5.png",
     "affiliateLink": "https://link.amazon/B0bfx7xz4"
   },
+     {
+    "name": "HP Professional 15 (2026) ",
+    "note": "Intel i5 14th Gen (8 GB/512 GB SSD) 15.6 inch,",
+    "price": "₹60,890",
+    "image": "HP_Professional_15_(2026).png",
+    "affiliateLink": "https://link.amazon/B0frUqwK4"
+  },
   {
-    "name": "Dell Vostro 3530",
-    "note": "15.6 inches • 13th Gen • Intel Core i5-1334U Processor • 16GB DDR4 RAM • 512GB SSD • ntel Iris Xe Graphics",
-    "price": "Best Value",
-    "image": "Dell-Vostro-3530-Laptop-15.6.png",
+    "name": "Dell Inspiron 3530 ",
+    "note": "13th Gen Intel Core i5 ( 8GB RAM/512GB SSD) 15.6 inches",
+    "price": "₹64,000",
+    "image": "Dell_Inspiron_3530.png",
+    "affiliateLink": "https://link.amazon/B0a6ysuJk"
+  },
+  {
+    "name": "Dell DC 15250 Thin & Light Laptop",
+    "note": "13th Gen Intel Core i5-1334U 8GB RAM, 512GB SSD, 15.6 inches",
+    "price": "₹61,990",
+    "image": "images/Dell-DC-15250-Thin-&-Light-Laptop.png",
     "affiliateLink": "https://link.amazon/B06wfFQ5N"
   },
   {
     "name": "HP 250 G10 Intel® i5",
     "specs": "Core i5 • 13th Gen 1334U • 16 GB/512 GB SSD • 15.6 inch",
-    "price": "₹2,999",
-    "image": "HP-250-G10-Intel-i5.png",
+    "price": "₹69,990",
+    "image": "images/HP-250-G10-Intel-i5.png",
     "affiliateLink": "https://link.amazon/B075N6oxY"
   },
   {
@@ -47,7 +83,7 @@
     "name": "ASUS Vivobook 15 (2025) ",
     "note": "Intel Core i3 • 13th Gen 1315U • 8 GB/512 GB SSD • 15.6 Inch",
     "price": "₹2,999",
-    "image": "ASUS-Vivobook-15.png",
+    "image": "images/ASUS-Vivobook-15.png",
     "affiliateLink": "https://dl.flipkart.com/s/ZU8HUVuuuN"
   },
 
@@ -55,28 +91,28 @@
     "name": "HP 15 (2026), AMD Ryzen 5 Hexa Core",
     "specs": "AMD Ryzen 5 Hexa Core • 8 GB DDR5/512 GB • SSD/AMD Radeon 15.6",
     "price": "₹2,999",
-    "image": "HP 15 (2026), AMD Ryzen 5 Hexa Core",
+    "image": "images/HP 15 (2026), AMD Ryzen 5 Hexa Core",
     "affiliateLink": "https://link.amazon/B0bwJ0bW0"
   },
   {
     "name": "Lenovo V15 G4 ",
     "specs": "Ryzen 5 • 15.6 inch FHD • 16GB DDR5 5500Mhz Ram • 512GB SSD,",
    "price": "₹2,999",
-    "image": "Lenovo V15 G4 AMD Ryzen 5",
+    "image": "images/Lenovo V15 G4 AMD Ryzen 5",
     "affiliateLink": "https://link.amazon/B0bfx7xz4"
   },
   {
     "name": "Dell Vostro 3530",
     "specs": "15.6 inches • 13th Gen • Intel Core i5-1334U Processor • 16GB DDR4 RAM • 512GB SSD • Intel Iris Xe Graphics",
    "price": "₹2,999",
-    "image": "Dell Vostro 3530 Laptop 15.6",
+    "image": "images/Dell Vostro 3530 Laptop 15.6",
     "affiliateLink": "https://link.amazon/B06wfFQ5N"
   },
   {
     "name": "HP 250 G10 Intel® i5",
     "specs": "Core i5 • 13th Gen 1334U • 16 GB/512 GB SSD • 15.6 inch",
     "price": "₹2,999",
-    "image": "HP-250-G10-Intel-i5",
+    "image": "images/HP-250-G10-Intel-i5",
     "affiliateLink": "https://link.amazon/B075N6oxY"
   },
   {
@@ -180,13 +216,13 @@
     "image": "YOUR-IMAGE-LINK",
     "affiliateLink": "YOUR-AMAZON-LINK"
   },
-  {
-    "name": "Dell G Series",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
-    "category": "Higher End",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  }
+   {
+    "name": "HP Victus 15",
+    "note": "Core i5 • 16GB RAM • 512GB SSD • RTX 3050",
+    "price": "54 000",
+    "image": "https://cdn1.smartprix.com/rx-iHH5oyvE4-w280-h280/hp-victus-15-fb3123a.webp",
+    "affiliateLink": "https://dl.flipkart.com/dl/hp-victus-15-intel-core-i5-13th-gen-13420h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-144-hz-75-w-15-fa1327tx-gaming-laptop/p/itmb08f154f265d7?pid=COMHY8KVZ73Y9PPY&lid=LSTCOMHY8KVZ73Y9PPYGBSHGI&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc&_refId=&_appId=CL"
+  },
 ],
 
 
