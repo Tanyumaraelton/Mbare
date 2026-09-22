@@ -150,62 +150,13 @@
     "affiliateLink": "https://www.flipkart.com/hp-victus-intel-core-i5-12th-gen-12450h-8-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-rtx-2050-144-hz-75-w-15-fa1226tx-gaming-laptop/p/itm9ad6649afe111?pid=COMHY8KVEKZVERUA&lid=LSTCOMHY8KVEKZVERUAB5OFP8&marketplace=FLIPKART&q=HP+Victus+15+Intel+Core+i5+12th+Gen+&store=6bo%2Fb5g&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=3021d735-22f5-4503-b4ea-80066d30b5d3.COMHY8KVEKZVERUA.SEARCH&ppt=sp&ppn=sp&ssid=iicdamx8v40000001790092189367&qH=31078aca74dc433e&ov_redirect=true"
   },
   {
-    "name": "HP Victus 15",
-    "specs": "Ryzen 7 • 16GB RAM • 512GB SSD • RTX 3050",
-    "category": "Budget",
-    "image": "YOUR-IMAGE-LINK",
+    "name": "HP Premium EP Series ",
+    "specs": "Intel 13th Gen Core i7-1355U, 16GB RAM, 512GB SSD",
+    "price": "₹79,990",
+    "image": "HP-Premium-EP-Series.png",
     "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "Lenovo LOQ RTX 4050",
-    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
-    "category": "Best Value",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "Acer Nitro V",
-    "specs": "Core i5 • 16GB RAM • 512GB SSD • RTX 4050",
-    "category": "Best Value",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "ASUS TUF Gaming",
-    "specs": "Core i7 • 16GB RAM • 512GB SSD • RTX 4050",
-    "category": "Best Value",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "Lenovo Legion",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4050",
-    "category": "Higher End",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "ASUS ROG",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
-    "category": "Higher End",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-  {
-    "name": "HP Omen",
-    "specs": "Core i7 • 16GB RAM • 1TB SSD • RTX 4060",
-    "category": "Higher End",
-    "image": "YOUR-IMAGE-LINK",
-    "affiliateLink": "YOUR-AMAZON-LINK"
-  },
-   {
-    "name": "HP Victus 15",
-    "note": "Core i5 • 16GB RAM • 512GB SSD • RTX 3050",
-    "price": "54 000",
-    "image": "https://cdn1.smartprix.com/rx-iHH5oyvE4-w280-h280/hp-victus-15-fb3123a.webp",
-    "affiliateLink": "https://dl.flipkart.com/dl/hp-victus-15-intel-core-i5-13th-gen-13420h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-3050-144-hz-75-w-15-fa1327tx-gaming-laptop/p/itmb08f154f265d7?pid=COMHY8KVZ73Y9PPY&lid=LSTCOMHY8KVZ73Y9PPYGBSHGI&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc&_refId=&_appId=CL"
   }
-],
+  
 
 
 
