@@ -1,6 +1,13 @@
 {
  
   "civilLaptops": [
+   {
+    "name": "HP 15, 12 Gen ",
+    "note": "12 Gen Intel Core i5-1235U, 8GB DDR4, 512GB SSD, 15.6-inch",
+    "price": "₹48,500",
+    "image": "images/HP_Professional_15_2026i7.png",
+    "affiliateLink": "https://link.amazon/B04VAo02p"
+  },
     {
     "name": "HP Professional 15 (2026)",
     "note": "Intel i3 14th Gen (8 GB/512 GB SSD/DOS)",
