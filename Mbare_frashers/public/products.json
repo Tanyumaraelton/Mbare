@@ -258,7 +258,7 @@
   {
     "name": "Fast Charger ",
     "price": "₹899",
-    "image": "charger.png",
+    "image": "images/charger.png",
     "affiliateLink": "https://link.amazon/B0fEH3ZOo"
   }
 
@@ -269,7 +269,7 @@
     {
       "name": "Product name",
       "note": "Aspire, have Hinge problem",
-      "image": "Shonidada.png",
+      "image": "images/Shonidada.png",
       "link": "https://link.amazon/B043Kx3i9"
     }
   ]
