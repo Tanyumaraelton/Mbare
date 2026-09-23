@@ -255,23 +255,25 @@
 
   ],
   "accessories": [
+   {
+    "name": "Fast Charger ",
+    "price": "₹899",
+    "image": "images/charger.png",
+    "affiliateLink": "https://link.amazon/B0fEH3ZOo"
+  },
+   
   {
-    "name": "Fast Charger ",
-    "price": "₹899",
-    "image": "images/charger.png",
-    "affiliateLink": "https://link.amazon/B0fEH3ZOo"
+    "name": "Ear Buds",
+    "price": "₹499",
+    "image": "images/earBuds.png",
+    "affiliateLink": "https://link.amazon/B08KZczMu"
   },
+   
    {
-    "name": "Fast Charger ",
-    "price": "₹899",
-    "image": "images/charger.png",
-    "affiliateLink": "https://link.amazon/B0fEH3ZOo"
-  },
-   {
-    "name": "Fast Charger ",
-    "price": "₹899",
-    "image": "images/charger.png",
-    "affiliateLink": "https://link.amazon/B0fEH3ZOo"
+    "name": "Laptop Cooler pad ",
+    "price": "₹639",
+    "image": "images/cooler.png",
+    "affiliateLink": "https://link.amazon/B08KZczMu"
   }
 
 ],
