@@ -559,8 +559,42 @@ a { color: inherit; }
   cursor: zoom-out;
 }
 
+
+
 #dont-buy-grid .card.zoomed img {
   transform: scale(3);
   z-index: 21;
   box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
 }
+
+/* -----------------------flipkart,, Amazon-------------*/
+.kit-heading {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.kit-heading h2 {
+  margin: 0;
+}
+
+.store-links {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.store-links img {
+  width: 80px;
+  height: auto;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.store-links img:hover {
+  transform: scale(1.05);
+}
+
