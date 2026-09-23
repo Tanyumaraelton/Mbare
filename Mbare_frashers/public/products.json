@@ -274,6 +274,12 @@
     "price": "₹639",
     "image": "images/cooler.png",
     "affiliateLink": "https://link.amazon/B08KZczMu"
+  },
+    {
+    "name": "Small Table",
+    "price": "₹497",
+    "image": "images/SmallTable.png",
+    "affiliateLink": "https://link.amazon/B0d6Z8xcZ"
   }
 
 ],
