@@ -582,11 +582,11 @@ a { color: inherit; }
 
 .store-links {
   display: flex;
-  gap: 12px;
+  gap: 4px;
 }
 
 .store-links img {
-  width: 100px;
+  width: 80px;
   height: auto;
   border-radius: 8px;
   cursor: pointer;
