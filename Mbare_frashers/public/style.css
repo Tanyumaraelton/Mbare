@@ -65,9 +65,9 @@ a { color: inherit; }
 .quick-nav a {
   position: relative;
   display: inline-block;
-  padding: 12px 23px;
+  padding: 12px 20px;
 
-  background: rgba(255, 200, 255, 0.12);
+  background: rgba(255, 100, 255, 0.12);
   backdrop-filter: blur(8px) saturate(150%);
   -webkit-backdrop-filter: blur(8px) saturate(150%);
 
