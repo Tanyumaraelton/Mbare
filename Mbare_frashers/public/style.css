@@ -17,6 +17,15 @@
 
 
 * { box-sizing: border-box; }
+.brand-avatar {
+  width: 48px;              /* Set equal width and height */
+  height: 48px;
+  border-radius: 50%;       /* Clips the box into a perfect circle */
+  object-fit: cover;        /* Prevents image distortion */
+  background-color: #f4f4f4; /* Optional: light background fill */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* Optional: subtle shadow */
+  display: block;
+}
 
 body {
   margin: 0;
