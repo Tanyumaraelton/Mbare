@@ -560,7 +560,7 @@ a { color: inherit; }
 }
 
 #dont-buy-grid .card.zoomed img {
-  transform: scale(6);
+  transform: scale(3);
   z-index: 21;
   box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
 }
