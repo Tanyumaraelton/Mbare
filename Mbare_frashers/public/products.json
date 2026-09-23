@@ -281,21 +281,21 @@
 
 "dontBuy": [
     {
-      "name": "Product name",
+      "name": "Acer Aspire",
       "note": "Aspire, have Hinge problem",
       "image": "images/Shonidada.png",
       "link": "https://link.amazon/B043Kx3i9"
     },
  {
-    "name": "Fast Charger ",
-    "price": "₹899",
-    "image": "images/charger.png",
+    "name": "Infinix",
+    "note": "Battery problems and Inoremerwa even maSpecs ari boo" ,
+    "image": "images/gubu.png",
     "affiliateLink": "https://link.amazon/B0fEH3ZOo"
   },
  {
-    "name": "Fast Charger ",
-    "price": "₹899",
-    "image": "images/charger.png",
+    "name": "Zebronix  or (< 11th GEN)",
+    "note": "Inoremerwa even maSpecs ari boo",
+    "image": "images/6thgen.png",
     "affiliateLink": "https://link.amazon/B0fEH3ZOo"
   }
   ]
